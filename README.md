@@ -180,6 +180,6 @@ Você **não precisa criar nada complexo**. O foco é:
 
 - Comece rodando `pytest`. A saída dele já indica em que cenário a lógica falha.
 - Compare manualmente o que a API retorna com o que **deveria** retornar segundo as regras descritas acima.
-- Não é preciso reescrever a aplicação — geralmente o ajuste é em **poucas linhas**.
+- Não é preciso reescrever a aplicação, geralmente o ajuste é em **poucas linhas**.
 
 Boa prova!
