@@ -67,7 +67,7 @@ teste_avaliativo_Christian/
 16. Limpe e organize todo o código (atualmente GO Horse).
 17. Ao finalizar, envie o projeto corrigido (zip ou link do repositório).
 
-## Desafio extra opcional
+    ## Desafio extra obrigatório
 
 Depois de corrigir a falha no cálculo, implemente no backend uma funcionalidade para registrar cada cálculo realizado em uma planilha Excel.
 
