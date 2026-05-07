@@ -64,7 +64,7 @@ teste_avaliativo_Christian/
     - data e hora da operação.
 14. A planilha pode ser criada automaticamente pelo backend caso ainda não exista.
 15. O candidato pode escolher a biblioteca Python para gerar ou atualizar a planilha, como `openpyxl`, `pandas` ou outra equivalente.
-16. Limpe e organize o código.
+16. Limpe e organize todo o código (atualmente GO Horse).
 17. Ao finalizar, envie o projeto corrigido (zip ou link do repositório).
 
 ## Desafio extra opcional
