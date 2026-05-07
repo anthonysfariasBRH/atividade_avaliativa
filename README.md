@@ -1,4 +1,4 @@
-# Teste Técnico — Desenvolvedor Júnior
+# Teste Técnico. Desenvolvedor Júnior
 
 ## Objetivo
 
@@ -67,7 +67,7 @@ teste_avaliativo_Christian/
 16. Limpe e organize o código.
 17. Ao finalizar, envie o projeto corrigido (zip ou link do repositório).
 
-## Desafio extra obrigatório
+## Desafio extra opcional
 
 Depois de corrigir a falha no cálculo, implemente no backend uma funcionalidade para registrar cada cálculo realizado em uma planilha Excel.
 
